@@ -14,18 +14,12 @@ A modern Flutter application that displays a beautiful photo gallery with stagge
 
 ## Screenshots
 
-> ![Photo List Screen (Online - Light Mode)](Photo List Screen (Online - Light Mode).png)
-> 
-> ![Photo List Screen (Online - Dark Mode)](Photo List Screen (Online - Dark Mode).png)
-> 
-> ![Photo List Screen (Offline - Light Mode)](Photo List Screen (Offline - Light Mode).png)
-> 
-> ![Photo List Screen (Offline - Dark Mode)](Photo List Screen (Offline - Dark Mode).png)
->
-> ![Loading State] (Loading State.png)
->
-> ![Error State] (Error State.png)
-> 
+![Photo List Screen (Online - Light Mode)](Photo%20List%20Screen%20(Online%20-%20Light%20Mode).png)
+![Photo List Screen (Online - Dark Mode)](Photo%20List%20Screen%20(Online%20-%20Dark%20Mode).png)
+![Photo List Screen (Offline - Light Mode)](Photo%20List%20Screen%20(Offline%20-%20Light%20Mode).png)
+![Photo List Screen (Offline - Dark Mode)](Photo%20List%20Screen%20(Offline%20-%20Dark%20Mode).png)
+![Loading State](Loading%20State.png)
+![Error State](Error%20State.png)
 
 ## Architecture
 
